@@ -87,5 +87,5 @@ The following Python concepts are demonstrated in this project:
 ```text
 python-smart-grocery-store-management-system/
 │
-├── smart_grocery_store.py
+├── smart_store_management.py
 └── README.md
